@@ -36,6 +36,7 @@
    .col-12 {
        width: 100%;
    }
+   
    @media (mind-width: 576px) {
        .row {
            display: flex;
